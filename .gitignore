@@ -1,0 +1,4 @@
+chatbotwebsite/db.sqlite3
+chatbotwebsite/__pycache__/manage.cpython-35.pyc
+chatbotwebsite/chatbotwebsite/__init__.pyc
+*.pyc
