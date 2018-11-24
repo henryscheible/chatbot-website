@@ -18,3 +18,4 @@ snowballstemmer==1.2.1
 virtualenv==16.0.0
 yapf==0.22.0
 gunicorn
+dj-database-url
