@@ -1,0 +1,1 @@
+web: gunicorn chatbotwebsite.wsgi --log-file -
