@@ -1,2 +1,1 @@
-web: gunicorn chatbotwebsite.wsgi --log-file -
-web: gunicorn chatbotwebsite:wsgi
+web: gunicorn chatbotwebsite.wsgi
