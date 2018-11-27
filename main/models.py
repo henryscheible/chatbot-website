@@ -4,7 +4,7 @@ from django.db import models
 class Conversation(models.Model):
     chatbot = models.ForeignKey('Chatbot', on_delete=models.CASCADE)
     
-class Chatbot(models.Model):
+class ChatbotSetting(models.Model):
     
     
 class Entry(models.Model):
